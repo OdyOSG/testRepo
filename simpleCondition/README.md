@@ -2,11 +2,11 @@
 
 ## Meta
 
--  Script Type: Capr
--  Script Name: simpleCondition.R
--  Version: 0.0.1
--  Author: Martin Lavallee
--  Description: create a simple condition cohort
+-  name: simpleCondition
+-  type: capr script
+-  version: 0.0.1
+-  maintainer: Martin Lavallee
+-  description: create a simple condition cohort using Capr
 
 ## Dependencies
 

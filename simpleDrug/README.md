@@ -2,11 +2,11 @@
 
 ## Meta
 
--  Script Type: Capr
--  Script Name: simpleDrug.R
--  Version: 0.0.1
--  Author: Martin Lavallee
--  Description: create a simple drug cohort
+-  name: simpleDrug
+-  type: capr script
+-  version: 0.0.1
+-  maintainer: Martin Lavallee
+-  description: create a simple drug cohort using Capr
 
 ## Dependencies
 
